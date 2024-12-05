@@ -4,3 +4,4 @@ dedicado à programação na linguagem Python. Aprendemos a elaborar algoritimos
 ficha diganóstico com conteúdos básicos referentes a multimédia e programação.
 
 Semana 2(25/09/2024 e 27/09/2024)
+README.md
