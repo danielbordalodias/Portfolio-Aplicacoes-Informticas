@@ -57,8 +57,10 @@ Continuei a realizar a ficha 6 envolvendo a biblioteca random. Comecei também a
 
 Semana 11(27/11/2024 e 29/11/2024)
 
-O professora iniciou um novo capítulo na programação, que são as strings, no entanto dediquei toda esta semana nas aulas de aplicações ao meu mini projeto na ficha 6
+O professor iniciou um novo capítulo na programação, que são as strings, no entanto dediquei toda esta semana nas aulas de aplicações ao meu mini projeto na ficha 6
 e fiquei bastante satisfeito como o trabalho se desenvolveu.Consegui programar quase tudo o que quis nas aulas, mas por vezes havia erros que me faziam desmotivar pois às vezes eram erros simples que podiam ser resolvidos facilmente e eu demorei bastante tempo para os encontrar. Tendo isto tudo em conta, consegui acabar o que queria e fiquei bastante satisfeito.
 
 Semana 12(04/12/2024 e 06/12/2024)
+Depois de bater com a cabeça muitas vezes por causa do mini-projeto, comecei a trabalhar na ficha das strings. Até agora nao achei que as strings sejam muito complicadas e parecem um pilar 
+bastante importante na programação. Consegui terminar os 10 exercícios obrigatórios na aula de sexta-feira, com a ajuda do professor. Tenho de começar a pensar no outro mini-projeto.
 
