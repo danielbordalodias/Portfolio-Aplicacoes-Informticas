@@ -33,4 +33,32 @@ Semana 6(23/10/2024)
 Nesta semana foi nos introduzida a biblioteca turtle, que nos permite fazer desenhos geométricos e muito mais em Python. Achei este novo capítulo da programação
 bastante interessante e até agora nao achei nada complexo demais.
 
-Semana 7
+Semana 7(30/10/2024)
+
+Continuei a resolução da segunda ficha sobre a biblioteca Turtle, mas agora sinto que os exercícios a complicarem... Até agora foi o que senti mais dificuldades
+a realizar mas o professora ajudou com a ficha de apoio disponibilizada no Moodle.
+
+Semana 8(06/11/2024 e 08/11/2024)
+
+Continuei mais uma vez a a desenvolver o meu trabalho na segunda ficha da biblioteca Turtle e o professor fez uma avaliação geral dos portfólios de todos os alunos.
+Nao entreguei a ficha Turtle dentro do prazo proposto.
+
+Semana 9(13/11/2024 e 15/11/2024)
+
+O professor lançou um novo desafio, que consiste na realização de problemas dentro da programação com a biblioteca random. Esta biblioteca consiste na geração aleatória de
+números, que ajuda no desenvolvimento de vários jogos, como por exemplo Batalha Naval ou o Jogo do Número Oculto. Realizámos também, na aula de sexta-feira, a atividade 
+Bebras, que consistia num determinado número de desafios mentais dado aos alunos, sendo a dificuldade de cada exercício aumentada ao longo da realização da ficha. Achei a 
+atividade Bebras bastante interessante, mas também bastante complexa e que exigiu que eu puxasse muito pela cabeça para resolver os desafios. Quanto à ficha, até agora percebi
+bem o conceito da biblioteca random e não senti dificuldades ao resolver os primeiros exercícios.
+
+Semana 10(20/11/2024 e 22/11/2024)
+
+Continuei a realizar a ficha 6 envolvendo a biblioteca random. Comecei também a pensar no Mini-projeto 1 que consiste em programar um jogo do "Pedra,Papel ou Tesoura".
+
+Semana 11(27/11/2024 e 29/11/2024)
+
+O professora iniciou um novo capítulo na programação, que são as strings, no entanto dediquei toda esta semana nas aulas de aplicações ao meu mini projeto na ficha 6
+e fiquei bastante satisfeito como o trabalho se desenvolveu.Consegui programar quase tudo o que quis nas aulas, mas por vezes havia erros que me faziam desmotivar pois às vezes eram erros simples que podiam ser resolvidos facilmente e eu demorei bastante tempo para os encontrar. Tendo isto tudo em conta, consegui acabar o que queria e fiquei bastante satisfeito.
+
+Semana 12(04/12/2024 e 06/12/2024)
+
