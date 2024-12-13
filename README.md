@@ -60,6 +60,15 @@ Semana 11(27/11/2024 e 29/11/2024)
 O professor iniciou um novo capítulo na programação, que são as strings, no entanto dediquei toda esta semana nas aulas de aplicações ao meu mini projeto na ficha 6
 e fiquei bastante satisfeito como o trabalho se desenvolveu.Consegui programar quase tudo o que quis nas aulas, mas por vezes havia erros que me faziam desmotivar pois às vezes eram erros simples que podiam ser resolvidos facilmente e eu demorei bastante tempo para os encontrar. Tendo isto tudo em conta, consegui acabar o que queria e fiquei bastante satisfeito.
 
+
+Semana 12(04/12/2024 e 06/12/2024)
+
+Nesta semana, o professor começou por dar informações acerca da prova de avaliação escrita e depois disso desenvolvi o meu trabalho na ficha 7 sobre strings. Terminei os 10 primeiros exercícios obrigatórios na aula e comecei a pensar sobre o mini-projeto 2(jogo da forca).
+
+Semana 13(11/12/2024 e 13/12/2024)
+
+Última semana de aulas e fiquei satisfeito com o meu trabalho nesta disciplina. Ainda tinha o teste pela frente mas sinceramente não me preocupei muito com ele. Na aula de quarta-feira, o professor deixou-nos mais ou menos em roda livre, com a opção de participar da atividade "Hour of Code" organizada pela code.org ou de continuar o trabalho na ficha 7. Na sexta-feira, fiz o teste de avaliação e correu me bastante bem. Também fiz a auto-avaliação e despedi-me do professor nesta primeira etapa do ano escolar.
+
 Semana 12(04/12/2024 e 06/12/2024)
 
 Depois de bater com a cabeça muitas vezes por causa do mini-projeto, comecei a trabalhar na ficha das strings. Até agora nao achei que as strings sejam muito complicadas e parecem um pilar 
