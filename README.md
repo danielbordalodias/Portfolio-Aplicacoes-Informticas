@@ -67,10 +67,11 @@ bastante importante na programação. Consegui terminar os 10 exercícios obriga
  
 Semana 13(11/12/2024 e 13/12/2024)
 
+Última semana de aulas e fiquei satisfeito com o meu trabalho nesta disciplina. Ainda tinha o teste pela frente mas sinceramente não me preocupei muito com ele. Na aula de quarta-feira, o professor deixou-nos mais ou menos em roda livre, com a opção de participar da atividade "Hour of Code" organizada pela code.org ou de continuar o trabalho na ficha 7. Na sexta-feira, fiz o teste de avaliação e correu me bastante bem. Também fiz a auto-avaliação e despedi-me do professor nesta primeira etapa do ano escolar.
+
+
 ----------------------------------------------------------------------------
 -------2º Período-----------------------------------------------------------
 ----------------------------------------------------------------------------
-
-Última semana de aulas e fiquei satisfeito com o meu trabalho nesta disciplina. Ainda tinha o teste pela frente mas sinceramente não me preocupei muito com ele. Na aula de quarta-feira, o professor deixou-nos mais ou menos em roda livre, com a opção de participar da atividade "Hour of Code" organizada pela code.org ou de continuar o trabalho na ficha 7. Na sexta-feira, fiz o teste de avaliação e correu me bastante bem. Também fiz a auto-avaliação e despedi-me do professor nesta primeira etapa do ano escolar.
 
 
