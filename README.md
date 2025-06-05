@@ -127,3 +127,40 @@ Semana 12(26/03/2025 e 28/03/2025)
 Continuámos os trabalhos iniciados na semana anterior(no meu caso comecei apenas esta semana), realizando mais uma atividade de edição de imagem. Foi uma experiência muito enriquecedora, pois tenho um grande interesse por este tipo de trabalhos envolvendo softwares de edição de imagem.
 
 
+2º Período
+-------------------------------------------------------------------
+
+Semana 1(23/04/2025 e 25/04/2025)
+
+Durante esta semana, começámos a explorar a utilização do Audacity para trabalhar com edição de áudio. Também demos início à edição de uma música utilizando esta ferramenta. Gostei imenso de aprender a mexer com o Audacity. Foi uma experiência  educativa e bastante divertida.
+
+Semana 2(30/04/2025 e 02/05/2025)
+
+Esta semana, concluímos a edição da música, utilizando um ficheiro de áudio fornecido pelo professor. Na minha opinião, este foi um dos trabalhos mais divertidos que realizámos ao longo do ano. Permitiu-nos dar asas à criatividade e, no final, o resultado foi algo diferente do habitual.
+
+Semana 3(07/05/2025 e 09/05/2025)
+
+Ao longo desta semana, iniciámos a aprendizagem sobre a edição de vídeo. O professor também nos apresentou as orientações e os requisitos necessários para a realização do trabalho final do ano relacionado com este tema(gravações, edição, etc.). Considero a edição de vídeo uma área bastante interessante e uma ferramenta muito útil. Acredito que poderá ser bastante vantajosa para trabalhos futuros na faculdade ou até mesmo para criar vídeos de forma independente.
+
+Semana 4(14/05/2025 e 16/05/2025)
+
+Durante esta semana, cada grupo deu início à criação e edição do vídeo para o trabalho final do ano. Estou a apreciar bastante a realização deste projeto em grupo, pois é uma excelente oportunidade para desenvolver a nossa criatividade e melhorar as nossas competências em edição de vídeo. Além disso, está a ser um trabalho muito divertido e envolvente de produzir.
+
+Semana 5(21/05/2025 e 23/05/2025)
+
+Esta semana, demos continuidade ao desenvolvimento do trabalho final do ano, centrado na criação e edição de vídeo. A meu ver, à medida que vamos progredindo na criação do vídeo, o trabalho torna-se cada vez mais interessante e divertido. No entanto estou a sentir dificuldades na gravação do vídeo com o meu grupo.
+
+Semana 6(28/05/2025 e 30/05/2025)
+
+Durante esta semana, continuámos a desenvolver o trabalho final do ano, focado na criação e edição de vídeo. A cada etapa do processo, sinto-me ainda mais entusiasmado com o resultado e com tudo o que estamos a criar em grupo, sinto-me realizado por ter feito este projeto.
+
+Semana 7(04/06/2025 e 06/06/2025)
+
+Nesta semana, realizámos a apresentação dos vídeos que fomos criando ao longo das últimas semanas. Na minha opinião, apreciei bastante poder assistir aos projetos dos meus colegas e gostei especialmente do grupo do Pedro, do Manuel e do Rafa, que a meu ver foi o melhor. Gostei bastante das filmagens e também usaram uma das minhas músicas portuguesas favoritas de sempre (Verdes Anos de Carlos Paredes). Um especial obrigado ao professor por este ano letivo e por ter abordado esta disciplina de uma forma inovadora e divertida, envolvendo sempre os alunos na disciplina.
+
+
+
+
+
+
+
